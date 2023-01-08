@@ -6,7 +6,7 @@ tungsten/95
 thorium/80
 ]
 size: 2
-powerProduction: 3
+powerProduction: 100000
 itemDuration: 600
 generateEffect: generatespark
 drawer: {
